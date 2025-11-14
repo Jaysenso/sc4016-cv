@@ -1,2 +1,2 @@
-# SC4016_CV
+# SC4016 Computer Vision Lab Assignments
 
